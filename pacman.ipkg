@@ -3,6 +3,6 @@ package pacman
 pkgs = sdl2, contrib
 
 main = Main
-executable = main
+executable = pacman
 
 sourcedir = src
