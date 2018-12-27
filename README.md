@@ -1,6 +1,8 @@
-A work-in-progress proof of the pacman-completeness of Idris.
+# Pac-Man in Idris
 
-Requires: git@github.com:steshaw/idris-sdl2.git
+A work-in-progress proof of the Pac-Man-completeness of Idris
+
+Requires: [idris-sdl2][idris-sdl2]
 
 ## Build
 
@@ -20,3 +22,5 @@ make clean
 make
 ./pacman
 ```
+
+[idris-sdl2]: https://github.com/steshaw/idris-sdl2
